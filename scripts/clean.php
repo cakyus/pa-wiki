@@ -35,6 +35,68 @@ function main(){
 	clean_file($file);
 }
 
+class Paragraph {
+
+	protected $items;
+	protected $itemIndex;
+	protected $itemCount;
+
+	public function __construct() {
+		$this->items = array();
+		$this->itemIndex = 0;
+	}
+
+	public function clean($text) {
+
+		$this->items = explode("\n\n", $text);
+		$this->itemCount = count($this->items);
+
+		while ($this->itemIndex < $this->itemCount){
+
+			$paragraph = $this->items[$this->itemIndex];
+			echo $this->itemIndex." > $paragraph\n";
+
+			$paragraph = $this->replaceAyatNumber($paragraph);
+
+			echo $this->itemIndex." < $paragraph\n";
+
+			$this->items[$this->itemIndex] = $paragraph;
+			$this->itemIndex++;
+		}
+
+		return implode("\n\n", $this->items);
+	}
+
+	/**
+	 * Replace numbering "(1) " to "1. "
+	 **/
+
+	public function replaceNumberingBracket() {
+
+	}
+
+
+	/**
+	 * Replace "ayat (1)" to "ayat 1"
+	 **/
+
+	public function replaceAyatNumber($paragraph) {
+
+		$pattern = "/ayat \(([0-9]+)\)/";
+
+		if (preg_match($pattern, $paragraph) == FALSE){
+			return $paragraph;
+		}
+
+		$paragraph = preg_replace($pattern, "ayat $1", $paragraph);
+		return $paragraph;
+	}
+}
+
+class Document {
+
+}
+
 function clean_file($file){
 
 	$text = file_get_contents($file);
@@ -70,6 +132,9 @@ function clean_file($file){
 
 	$text = preg_replace("/\/ +/", "/", $text);
 	$text = preg_replace("/ +\//", "/", $text);
+
+	$paragraph = new \Paragraph;
+	$text = $paragraph->clean($text);
 
 	file_put_contents($file, $text);
 }
