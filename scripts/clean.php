@@ -32,7 +32,8 @@ function main(){
 
 	$file = $_SERVER['argv'][1];
 
-	clean_file($file);
+	$document = new \Document;
+	$document->clean($file);
 }
 
 class Paragraph {
@@ -54,11 +55,18 @@ class Paragraph {
 		while ($this->itemIndex < $this->itemCount){
 
 			$paragraph = $this->items[$this->itemIndex];
-			echo $this->itemIndex." > $paragraph\n";
+			$originalParagraph = $paragraph;
 
 			$paragraph = $this->replaceAyatNumber($paragraph);
+			$paragraph = $this->replaceNumberingBracket($paragraph);
+			$paragraph = $this->mergeNumbering($paragraph);
+			// $paragraph = $this->replaceWordwarp($paragraph);
+			$paragraph = $this->replaceTrim($paragraph);
 
-			echo $this->itemIndex." < $paragraph\n";
+			if ($originalParagraph !== $paragraph){
+				echo $this->itemIndex." > $originalParagraph\n";
+				echo $this->itemIndex." < $paragraph\n";
+			}
 
 			$this->items[$this->itemIndex] = $paragraph;
 			$this->itemIndex++;
@@ -69,74 +77,102 @@ class Paragraph {
 
 	/**
 	 * Replace numbering "(1) " to "1. "
+	 * Replace numbering "1) " to "1. "
 	 **/
 
-	public function replaceNumberingBracket() {
-
+	public function replaceNumberingBracket($paragraph) {
+		$paragraph = preg_replace("/^\(([0-9]+)\)$/", "$1.", $paragraph);
+		$paragraph = preg_replace("/^\(([0-9]+)\) /", "$1. ", $paragraph);
+		$paragraph = preg_replace("/^([0-9a-z]+)\) /", "$1. ", $paragraph);
+		return $paragraph;
 	}
 
+	/**
+	 * Merge numbering "1." to "1. -"
+	 **/
+
+	public function mergeNumbering($paragraph) {
+		return $paragraph;
+	}
 
 	/**
+	 * Replace "ayat(1)" to "ayat 1"
 	 * Replace "ayat (1)" to "ayat 1"
 	 **/
 
 	public function replaceAyatNumber($paragraph) {
+		$paragraph = preg_replace("/ayat\(([0-9]+)\)/", "ayat $1", $paragraph);
+		$paragraph = preg_replace("/ayat +\(([0-9]+)\)/", "ayat $1", $paragraph);
+		return $paragraph;
+	}
 
-		$pattern = "/ayat \(([0-9]+)\)/";
+	/**
+	 * Wordwarp
+	 **/
 
-		if (preg_match($pattern, $paragraph) == FALSE){
-			return $paragraph;
-		}
+	public function replaceWordwarp($paragraph) {
+		$paragraph = wordwrap($paragraph);
+		return $paragraph;
+	}
 
-		$paragraph = preg_replace($pattern, "ayat $1", $paragraph);
+	/**
+	 * Trim
+	 **/
+
+	public function replaceTrim($paragraph) {
+		$paragraph = trim($paragraph);
 		return $paragraph;
 	}
 }
 
 class Document {
 
-}
+	public function clean($file) {
 
-function clean_file($file){
+		$text = file_get_contents($file);
 
-	$text = file_get_contents($file);
+		$originalText = $text;
 
-	// GLOBAL REPLACEMENT
+		// GLOBAL REPLACEMENT
 
-	// use LF for line break
+		// use LF for line break
 
-	$text = str_replace("\r\n", "\n", $text);
+		$text = str_replace("\r\n", "\n", $text);
 
-	// replace tab with space
+		// replace tab with space
 
-	$text = str_replace("\t", " ", $text);
+		$text = str_replace("\t", " ", $text);
 
-	// replace excessive spaces
+		// replace excessive spaces
 
-	$text = preg_replace("/ +/", " ", $text);
+		$text = preg_replace("/ +/", " ", $text);
 
-	// remove page number
+		// remove page number
 
-	$text = preg_replace("/^-\s+[0-9]+\s+\-/m", "", $text);
+		$text = preg_replace("/^-\s+[0-9]+\s+\-/m", "", $text);
 
-	// replace excessive line break
+		// replace excessive line break
 
-	$text = preg_replace("/\n{2,}/", "\n\n", $text);
+		$text = preg_replace("/\n{2,}/", "\n\n", $text);
 
-	// no space after "(" and before ")"
+		// no space after "(" and before ")"
 
-	$text = preg_replace("/\( +/", "(", $text);
-	$text = preg_replace("/ +\)/", ")", $text);
+		$text = preg_replace("/\( +/", "(", $text);
+		$text = preg_replace("/ +\)/", ")", $text);
 
-	// no space after "/" and before "/"
+		// no space after "/" and before "/"
 
-	$text = preg_replace("/\/ +/", "/", $text);
-	$text = preg_replace("/ +\//", "/", $text);
+		$text = preg_replace("/\/ +/", "/", $text);
+		$text = preg_replace("/ +\//", "/", $text);
 
-	$paragraph = new \Paragraph;
-	$text = $paragraph->clean($text);
+		$paragraph = new \Paragraph;
+		$text = $paragraph->clean($text);
+		$text .= "\n";
 
-	file_put_contents($file, $text);
+		if ($originalText !== $text){
+			file_put_contents($file, $text);
+		}
+	}
 }
 
 main();
