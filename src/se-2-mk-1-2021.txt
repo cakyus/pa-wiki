@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+SURAT EDARAN NOMOR SE-2/MK.1/2021
+
+TENTANG
+PEMANFAATAN SERTIFIKAT ELEKTRONIK DI LINGKUNGAN KEMENTERIAN KEUANGAN
+
+Yth.    1. Sekretaris Jenderal
+2. Para Direktur Jenderal
+3. Inspektur Jenderal
+4. Para Kepala Badan
+5. Para Staf Ahli dan Staf Khusus
+6. Kepala Lembaga National Single Window
+7. Para Pengelola Sumber Daya Manusia
+8. Para Pegawai
+di lingkungan Kementerian Keuangan
+
+A.  Umum
+1.  Dalam rangka mewujudkan transformasi  digital,  dan  mendukung  budaya  paperless  di lingkungan Kementerian Keuangan, telah dikembangkan aplikasi digital berbasis web antara lain aplikasi tata naskah dinas elektronik (Nadine) dan Core Application Unit Eselon I /Unit Organisasi Non-eselon yang memanfaatkan Sertifikat Elektronik. Penggunaan Sertifikat Elektronik dimaksud merupakan bentuk perlindungan aset informasi sehingga wajib dimiliki oleh seluruh pegawai di lingkungan Kementerian Keuangan.
+2.  Serifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam Transaksi Elektronik yang dikeluarkan oleh Penyelenggara Sertifikasi Elektronik.
+3.  Penggunaan Setifikat Elektronik merupakan bentuk perlindungan aset informasi, sehingga seluruh pegawai Kementerian Keuangan wajib memiliki Sertifikat Elektronik.
+4. Dalam rangka menjamin ketersediaan dan optimalisasi layanan Sertifikat Elektronik, Kementerian Keuangan bekerja sama dengan 2 (dua) Penyelenggara Sertifikasi Elektronik (PSrE), yaitu Badan Siber dan Sandi Negara (BSSN), dan Badan Pengkajian dan Penerapan Teknologi (BPPT). Guna memberikan panduan terkait pemanfaatan Sertifikat Elektronik, perlu menetapkan Surat Edaran tentang Pemanfaatan Sertifikat Elektronik di Lingkungan Kementerian Keuangan.
+
+B.  Maksud dan Tujuan
+Maksud dan tujuan Surat Edaran ini adalah untuk memberikan panduan bagi pihak-pihak terkait yang tersebut dalam Surat Edaran ini dalam pemanfaatan Sertifikat Elektronik di lingkungan Kementerian Keuangan.
+
+
+
+
+
+
+
+
+
+
+C.  Ruang Lingkup
+1.  Pihak-pihak Terkait;
+2.  Kewajiban dan Tanggung Jawab Pihak-pihak Terkait;
+3.  Registrasi Sertifikat Elektronik;
+4.  Perubahan Data dan Pembaruan Sertifikat Elektronik;
+5.  Pencabutan Sertifikat Elektronik;
+6.  Penanganan Gangguan Teknis;
+7.  Tata Cara Pengecekan Validitas Dokumen yang Ditandatangani dengan DS; dan
+8.  Penjadwalan Pelaksanaan Registrasi.
+
+D.  Dasar
+1. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 tahun 2008 tentang Informasi dan Transaksi Elektronik;
+2.  Peraturan  Pemerintah  Nomor  71  Tahun  2019  tentang  Penyelenggaraan  Sistem  dan
+Transaksi Elektronik (PSTE);
+3.  Peraturan   Menteri   Keuangan   Nomor   6/PMK.01/2015   tentang   Pengelolaan   Sistem
+Informasi Sumber Daya Manusia Di Lingkungan Kementerian Keuangan;
+4. Keputusan  Menteri  Keuangan  Nomor  539/KMK.01/2019  tentang  Pelimpahan Kewenangan Menteri Keuangan Dalam Bentuk Mandat kepada Pejabat di Lingkungan Sekretariat Jenderal;
+5.  Keputusan Menteri Keuangan Nomor 942/KMK.01/2019 tentang Pengelolaan Keamanan
+Informasi di Lingkungan Kementerian Keuangan; dan
+6.  Surat Edaran Menteri Keuangan Nomor 20/MK.1/2019 tentang Pelaksanaan Pemeliharaan Data Sumber Daya Manusia Pada Human Resource Information System (HRIS) Bagi Seluruh Pegawai di Lingkungan Kementerian Keuangan.
+
+E.  Definisi
+1.  Sertifikat Elektronik merupakan sertifikat yang bersifat elektronis yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam transaksi elektronik yang dikeluarkan oleh Penyelenggara Sertifikasi Elektronik.
+2.  Tanda Tangan Elektronik (Digital Signature/DS) merupakan tanda tangan yang terdiri atas informasi elektronik yang dilekatkan, terasosiasi, atau terkait dengan informasi elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.
+3.  Core Application adalah sistem aplikasi yang mendukung proses bisnis utama Unit di
+Lingkungan Kementerian Keuangan.
+4.  Penyelenggara Sertifikasi Elektronik (PSrE) adalah badan hukum yang berfungsi sebagai pihak yang layak dipercaya, yang memberikan dan mengaudit Sertifikat Elektronik.
+5.  Unit di Lingkungan Kementerian Keuangan adalah Unit Eselon I dan Unit Non Eselon yang bertanggung jawab kepada Menteri Keuangan.
+
+
+
+
+
+
+
+
+
+
+6.  Long Term Validation adalah sebuah fitur sertifikat elektronik yang bertujuan agar Tanda Tangan Elektronik tetap dapat diverifikasi meskipun masa berlaku sertifikat elektronik telah memasuki masa kadaluarsa (expired).
+7.  Registration  Authority  (RA)  Kementerian  Keuangan  adalah  otoritas   yang  memiliki tanggung jawab dalam melakukan verifikasi dan validasi identitas pemohon Sertifikat Elektronik  beserta  kelengkapan  persyaratan  permohonan  Sertifikat  Elektronik  yang menjadi dasar untuk menyetujui dan menolak permohonan Sertifikat Elektronik.
+8.  Passphrase/Personal Identifier Number (PIN) adalah serangkaian angka dan/atau huruf dan/atau karakter tertentu yang digunakan untuk melakukan verifikasi penandatanganan/instalasi Sertifikat Elektronik.
+9.  Revoke  adalah  pencabutan  sertifikat  elektronik  yang  telah  diterbitkan  karena  alasan tertentu.
+Revoke sertifikat elektronik di dibagi menjadi 2 (dua) yaitu:
+a.  Revoke Internal adalah Pencabutan sertifikat elektronik yang didasarkan pada Mutasi Pejabat/Pegawai antar unit Eselon I atau unit Non Eselon yang bertanggung jawab kepada  Menteri  Keuangan,  dimana  sertifikat  yang  telah  dicabut  akan  diterbitkan kembali (pembaharuan) dengan perubahan identitas sesuai dengan Unit Eselon I atau Unit Organisasi Non Eselon yang baru.
+b. Revoke Eksternal adalah pencabutan sertifikat elektronik yang didasarkan atas perubahan status pejabat/pegawai karena pemberhentian atau mutasi ke luar Kementerian Keuangan.
+
+F.  Ketentuan
+1.  Pihak-pihak terkait dalam Surat Edaran ini terdiri atas:
+a.  Pegawai Kementerian Keuangan selaku pengguna dan pemilik Sertifikat Elektronik;
+b.  Unit Pengelola Sumber Daya Manusia (UPSDM) yang terdiri atas UPSDM tingkat Pusat, UPSDM tingkat Unit Eselon I, UPSDM tingkat Unit Eselon II, dan UPSDM tingkat Unit Eselon III; dan
+c.   Pusat   Sistem   Informasi   dan   Teknologi   Keuangan   (Pusintek)   selaku   Otoritas Pendaftaran atau Registration Authority (RA) Kementerian Keuangan merupakan otoritas  yang  memiliki  tanggung  jawab  dalam  melakukan  verifikasi  dan  validasi identitas pemohon Sertifikat Elektronik beserta kelengkapan persyaratan permohonan Sertifikat Elektronik yang menjadi dasar untuk menyetujui dan menolak permohonan Sertifikat Elektronik.
+
+2.  Kewajiban dan tanggung jawab pihak-pihak terkait:
+a.  Pegawai Kementerian Keuangan wajib:
+1)  melakukan pemutakhiran data diri sesuai dengan data terkini pada aplikasi HRIS (https://hris.e-prime.kemenkeu.go.id/)  dan  melengkapi  persyaratan  yang dibutuhkan (apabila belum) sebagai berikut:
+a)  scan Kartu Tanda Penduduk (KTP) elektronik atau surat keterangan rekam
+KTP elektronik; dan
+b)  scan tanda tangan pegawai.
+
+
+
+
+
+
+
+
+
+
+2)  melakukan registrasi Sertifikat Elektronik untuk kedua PSrE yang bekerja sama dengan  Kementerian  Keuangan.  Registrasi  Sertifikat  Elektronik  dilaksanakan sesuai tata cara registrasi Sertifikat Elektronik sebagaimana tercantum pada angka
+3;
+3)  menggunakan  Sertifikat  Elektronik  sesuai  dengan  kewenangan  dan  ketentuan yang berlaku;
+4)  melakukan   perubahan   passphrase/Personal   Identifier   Number   (PIN)   secara berkala paling lama dalam jangka waktu 180 (seratus delapan puluh) hari.
+b.  UPSDM:
+1)  Melakukan verifikasi data dan memberikan persetujuan atas pemutakhiran data diri yang dilakukan pegawai Kementerian Keuangan;
+2)  UPSDM Pusat dan UPSDM Unit Eselon I atau Non Eselon mengoordinasikan dan memastikan pelaksanaan angka 1) pada masing-masing satuan kerja di bawahnya sesuai dengan kewenangan masing-masing;
+c.   Pusintek selaku RA Kementerian Keuangan melakukan verifikasi data, penerbitan, penolakan dan pencabutan Sertifikat Elektronik.
+
+3.  Registrasi Sertifikat Elektronik
+Tata cara registrasi Sertifikat Elektronik adalah sebagai berikut:
+a. Pegawai melakukan registrasi Sertifikat Elektronik dengan mengaktifkan/menekan tombol registrasi DS pada aplikasi HRIS;
+b.  Pegawai akan menerima notifikasi untuk aktivasi passphrase/PIN dari PSrE melalui surat elektronik resmi Kementerian Keuangan yang berisikan tautan aktivasi;
+c.   Pegawai melakukan aktivasi passphrase/PIN paling lambat 1 (satu) minggu setelah notifikasi diterima;
+d.  Pegawai Kementerian Keuangan harus selalu mengingat passphrase/PIN Sertifikat
+Elektronik yang telah dibuat;
+e.  Pegawai  akan  menerima  notifikasi  penerbitan  Sertifikat  Elektronik  melalui  surat elektronik resmi Kementerian Keuangan dari PSrE untuk dapat dimanfaatkan sesuai peruntukannya.
+4.  Masa berlaku Sertifikat Elektronik yang ditetapkan oleh PSrE adalah sebagai berikut:
+a.    BSSN masa berlaku selama 2 (dua) tahun sejak sertifikat diterbitkan;
+b.    BPPT masa berlaku selama 1 (satu) tahun sejak sertifikat diterbitkan.
+5.  Perubahan data dan pembaruan Sertifikat Elektronik
+a.  Perubahan data diri pegawai yang dapat menyebabkan  Sertifikat  Elektronik  harus diperbarui adalah perubahan pada Nomor Induk Kependudukan (NIK), alamat surat elektronik  resmi  Kementerian  Keuangan,  dan  perubahan  Unit  Eselon  I  atau  Non Eselon.
+b.  Tata cara pembaruan Sertifikat Elektronik:
+1)  Sertifikat Elektronik yang diterbitkan oleh BSSN
+a)  Pegawai melakukan perubahan data diri melalui aplikasi HRIS dan melengkapi persyaratan sebagai berikut:
+
+
+
+
+
+
+
+
+
+
+i. scan Kartu Tanda Penduduk (KTP) elektronik atau surat keterangan rekam
+KTP elektronik; dan
+ii. scan tanda tangan pegawai.
+b) Pegawai menyampaikan permohonan penerbitan ulang Sertifikat Elektronik kepada Service Desk Pusintek dengan disertai alasan pembaharuan (expired atau mutasi antar Unit Eselon I atau Unit Non Eselon).
+2)  Sertifikat Elektronik yang diterbitkan oleh BPPT
+a)  Pegawai melakukan perubahan data diri melalui Aplikasi HRIS;
+b)  UP SDM melakukan persetujuan perubahan data pada Aplikasi HRIS, maka tombol Revoke Internal akan aktif pada Aplikasi HRIS;
+c)  Pegawai menekan tombol Revoke Internal pada Aplikasi HRIS. d)  RA melakukan persetujuan revoke internal pada Aplikasi RAIN. e)  Pegawai menekan tombol Registrasi pada Aplikasi HRIS.
+c.   Notifikasi masa kadaluarsa
+1)  Dalam   hal   Sertifikat   Elektronik   yang   diterbitkan   oleh   BSSN,   sistem   akan memberikan notifikasi ke alamat surat elektronik resmi Kementerian Keuangan yang terdaftar pada H-30, H-20, H-7 s.d. H-1 sebelum masa aktif Sertifikat Elektronik berakhir;
+2)  Dalam   hal   Sertifikat   Elektronik   yang   diterbitkan   oleh   BPPT,   sistem   akan memberikan notifikasi pada aplikasi HRIS dan akan menyampaikan ke alamat surat elektronik resmi Kementerian Keuangan yang terdaftar pada H-30, H-20, H-
+10 sebelum masa aktif Sertifikat Elektronik berakhir.
+
+6.  Pencabutan Sertifikat Elektronik
+a. Hal-hal yang dapat menyebabkan pencabutan Sertifikat Elektronik antara lain penyalahgunaan Sertifikat Elektronik, mutasi keluar dari Kementerian Keuangan, pemberhentian baik pemberhentian karena Pensiun, meninggal dunia, mengundurkan diri dari Kementerian Keuangan.
+b.  Persyaratan pencabutan Sertifikat Elektronik
+Permohonan pencabutan Sertifikat Elektronik mencantumkan keterangan penyebab pencabutan dan melampirkan Surat Keputusan Pemberhentian atau Surat Keputusan Mutasi keluar dari Kementerian Keuangan.
+c.   Tata cara pencabutan Sertifikat Elektronik:
+1)  Untuk Sertifikat Elektronik yang diterbitkan oleh BSSN
+UPSDM  menyampaikan  permohonan  pencabutan  Sertifikat  Elektronik  kepada
+Service Desk Pusintek, disertai dengan alasan dan data dukung.
+2)  Sertifikat Elektronik yang diterbitkan oleh BPPT
+a)  UPSDM   melakukan   monitoring   status   kepegawaian   Pegawai   Pensiun, Meninggal Dunia, Pemberhentian, Pindah ke luar Kementerian Keuangan melalui aplikasi HRIS;
+b)  UPSDM mengajukan pencabutan sertifikat dengan menekan tombol Revoke
+Eksternal pada menu monitoring DS.
+
+
+
+
+
+
+
+
+
+
+3) RA Kementerian Keuangan melakukan pencabutan Sertifikat Elektronik sesuai dengan permohonan yang disampaikan oleh UPSDM.
+
+7.  Penanganan Gangguan Teknis
+a.  Pimpinan Unit di Lingkungan Kementerian Keuangan menunjuk Person in Charge (PIC) untuk mengkoordinasikan kegiatan terkait pemanfaatan Sertifikat Elektronik di lingkungan Unit masing-masing.
+b.  Dalam hal terjadi permasalahan teknis, PIC sebagaimana dimaksud pada huruf a berkoordinasi dengan:
+1)  UPSDM di lingkungan Unit masing-masing; atau
+2)  Service Desk Pusintek melalui :
+a)  telepon nomor (021) 3451165, (021) 3449230 ext. 4100, (021) 299225900;
+b)  surat elektronik: servicedesk@kemenkeu.go.id;
+c)  aplikasi Deskpro Kementerian Keuangan https://servicedesk.kemenkeu.go.id.
+
+8.  Tata Cara Pengecekan Validitas Dokumen yang Ditandatangani dengan DS
+a.  Pengecekan pada dokumen .pdf
+1)  Buka dokumen .pdf yang telah ditandatangani;
+2)  Buka pada panel sebelah kiri kemudian pilih signature (ikon pena);
+3)  Lakukan pengecekan untuk memastikan:
+a)  nama penandatangan telah sesuai;
+b)  dokumen belum mengalami perubahan sejak ditandatangani. b.  Pengecekan melalui website
+1)  Buka tautan https://tte.kominfo.go.id/verifyPDF
+2)  Tekan tombol Unggah Dokumen PDF kemudian pilih dokumen .pdf yang telah ditandatangani.
+3)  Tekan tombol Tampilkan dan lakukan pengecekan untuk memastikan:
+a)  nama penandatangan telah sesuai;
+b)  dokumen belum mengalami perubahan sejak ditandatangani;
+c)  dokumen memiliki stempel waktu;
+d)  dokumen mendukung Long Term Validation.
+
+
+9.  Penjadwalan Pelaksanaan Registrasi
+a.  Pelaksanaan registrasi dilakukan secara bertahap hingga bulan Juni 2021;
+b.  Pembagian jadwal registrasi sebagai berikut:
+1)  Tahap  I  bulan  Januari  2021  khusus  Pejabat  Struktural  pada  unit  Sekretariat Jenderal  dan  Unit  Eselon  I  dan  Unit  Non  Eselon  yang  tidak  memiliki  Kantor Vertikal;
+2)  Tahap II bulan Februari 2021 s.d. Maret 2021 khusus Pejabat Struktural untuk Unit
+Eselon I yang memiliki Kantor Vertikal;
+3)  Tahap III bulan April 2021 s.d Juni 2021 untuk Seluruh Pegawai Kementerian
+Keuangan.
+
+
+
+
+
+
+
+
+
+
+G.  Penutup
+1.  Para pimpinan unit organisasi Eselon I pimpinan unit non Eselon yang bertanggung jawab langsung kepada Menteri Keuangan, dan para pejabat setingkat Eselon I lainnya , agar melaksanaan Surat Edaran Menteri ini dengan sebaik-baiknya dan penuh tanggung jawab, serta  melakukan  pemantauan  atas  pelaksanaan  Surat  Edaran  Menteri  ini  di  lingkup masing-masing unit.
+2.  Surat Edaran Menteri ini mulai berlaku sejak tanggal ditetapkan.
+
+Demikian disampaikan, untuk diketahui dan dipergunakan sebagaimana mestinya.
+
+
+
+Ditetapkan di
+pada tanggal 19 Januari 2021 a.n.   Menteri Keuangan
+Sekretaris Jenderal
+
+
+
+
+
+
+Ditandatangani secara elektronik
+Hadiyanto
+
+
+Tembusan:
+1. Menteri Keuangan
+2. Wakil Menteri Keuangan
+
+Kp. : SJ/IT/2021
