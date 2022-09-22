@@ -2,7 +2,9 @@
 
 ## Dasar Hukum
 
- 1. SE-94/PB/2020 tentang Mekanisme Penyampaian Hardcopy SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C (Bertanda Tangan) pada Masa Keadaan Darurat Corona Virus Disease 2019 (COVID-19)
+SE-94/PB/2020 tentang Mekanisme Penyampaian Hardcopy SPM/SP3B
+BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C (Bertanda Tangan)
+pada Masa Keadaan Darurat Corona Virus Disease 2019 (COVID-19)
 
 ## Kelengkapan Dokumen
 
