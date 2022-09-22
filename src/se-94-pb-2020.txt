@@ -1,438 +1,253 @@
+KEMENTERIAN KEUANGAN REPUBLIK INDONESIA
+DIREKTORAT JENDERAL PERBENDAHARAAN
 
+SURAT EDARAN NOMOR SE-94/PB/2020 TENTANG MEKANISME PENYAMPAIAN HARDCOPY
+SPM/SP38 BLU/MPHL-BJS ATAU SP2HL/SP4HL ATAU APD PL/SKP-L/C (BERTANDA
+TANGAN) PADA MASA KEADAAN DARURAT CORONA VIRUS DISEASE 2019 (COVID-19)
 
+Yth. 1. Para Kepala Kantor Wilayah Direktorat Jenderal Perbendaharaan
+2. Para Kepala Kantor Pelayanan Perbendaharaan Negara
 
-KEMENTERIAN  KEUANGAN REPUBLIK INDONESIA DIREKTORATJENDERALPERBENDAHARAAN
+A. Umum
 
+Berkenaan dengan Surat Edaran Direktur Jenderal Perbendaharaan Nomor
+SE-25/PB/2020 tentang Tindak Lanjut lmplementasi Surat Edaran Menteri
+Keuangan Nomor SE-5/MK.1/2020 di Lingkungan Direktorat Jenderal
+Perbendaharaan dan Nomor SE-31/PB/2020 tentang Mekanisme Pengiriman
+Dokumen Tagihan Secara Elektronik pada masa Keadaan Darurat Corona
+Virus Disease 2019 (COVI0-19), antara lain telah diatur bahwa Satuan
+Kerja menyampaikan hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau
+APO PL/SKP- L/C (bertanda tangan) beserta dokumen pendukungnya ke KPPN
+setelah kondisi normal kembali sesuai keputusan pejabat yang berwenang.
+Memperhatikan kondisi pandemi COVID-19 yang belum menunjukkan gejala
+mereda, serta kondisi normal kembali sebagaimana diatur Surat Edaran
+Oirektur Jenderal Perbendaharaan Nomor SE-25/PB/2020 Jo. SE-31/PB/2020
+dimaksud belum dapat diprediksi kapan akan terjadi, maka perlu mengatur
+Mekanisme Penyampaian Hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL
+atau APO PL/SKP-L/C (Bertanda Tangan) pada Masa Keadaan Darurat Corona
+Virus Disease 2019 (COVI0-19).
 
+B. Maksud dan Tujuan
 
-SURAT EOARAN NOMOR SE-    94  /PB/2020
+1. Melakukan pengaturan Mekanisme Penyampaian Hardcopy SPM/SP38
+BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C (Bertanda Tangan)
+beserta dokumen pendukungnya sebagai tindak lanjut dari proses
+pencairan dana APBN pada masa keadaan darurat COVID-19 sesuai ketentuan
+yang berlaku.
 
+2. Memastikan pelaksanaan tugas dan fungsi pencairan dana, pengesahan
+pendapatan dan belanja, pengesahan memo persetujuan hibah langsung
+dalam bentuk barang/jasa/surat berharga, pengesahan pendapatan dan
+hibah, dan pemrosesan APD PL/SKP-L/C pada Direktorat Jenderal
+Perbendaharaan tetap berjalan secara efektif dan efisien.
 
+C. Ruang Lingkup
 
-TENTANG
-MEKANISME  PENYAMPAIAN  HARDCOPY  SPM/SP38 BLU/MPHL-BJS ATAU SP2HL/SP4HL ATAU APO PL/SKP-L/C  (BERTANOA TANGAN)
-PAOA MASA KEAOAAN OARURAT  CORONA  VIRUS DISEASE  2019  (COVI0-19)
+Surat Edaran ini memuat pengaturan mengenai Mekanisme Penyampaian
+Hardcopy SPM/SP3S BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C
+(Bertanda Tangan) beserta dokumen pendukungnya untuk Satuan Kerja
+Pengguna Aplikasi SAS, Satuan Kerja Piloting Sistem Aplikasi Keuangan
+Tingkat lnstansi (SAKTI), dan Satuan Kerja Akses Langsung Sistem
+Perbendaharaan dan Anggaran Negara (SPAN) pada masa keadaan darurat
+COVID-19.
 
+D. Dasar Hukum
 
+1. Peraturan Menteri Keuangan Nomor 250/PMK.05/2010 tentang Tata Cara
+Pencairan Anggaran Pendapatan dan Selanja Negara Sagian Atas Seban
+Anggaran Sendahara Umum Negara Pada Kantor Pelayanan Perbendaharaan
+Negara (Serita Negara Republik Indonesia Tahun 2010 Nomor 662);
 
-Yth.   1.    Para  Kepala Kantor Wilayah  Oirektorat Jenderal  Perbendaharaan
-2.   Para  Kepala Kantor Pelayanan Perbendaharaan  Negara
+2. Peraturan Menteri Keuangan Nomor 190/PMK.05/2012 tentang Tata Cara
+Pembayaran Dalam Rangka Pelaksanaan Anggaran Pendapatan dan Belanja
+Negara (Berita Negara Republik Indonesia Tahun 2012 Nomor 1191)
+sebagaimana telah diubah dengan Peraturan Menteri Keuangan Nomor
+178/PMK.05/2018 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor
+190/PMK.05/2012 tentang Tata Cara Pembayaran Dalam Rangka Pelaksanaan
+Anggaran Pendapatan dan Selanja Negara (Berita Negara Republik
+Indonesia Tahun 2018 Nomor 1736);
 
+3. Peraturan Menteri Keuangan Nomor 154/PMK.05/2014 tentang Pelaksanaan
+Sistem Perbendaharaan dan Anggaran Negara (Berita Negara Republik
+Indonesia Tahun 2014 Nomor 1062) sebagaimana telah diubah dengan
+Peraturan Menteri Keuangan Nomor 278/PMK.05/2014 tentang Perubahan Atas
+Peraturan Menteri Keuangan Nomor 154/PMK.05/2014 tentang Pelaksanaan
+Sistem Perbendaharaan dan Anggaran Negara (Berita Negara Republik
+Indonesia Tahun 2014 Nomor 2100);
 
+4. Peraturan Menteri Keuangan Nomor 159/PMK.05/2018 tentang Pelaksanaan
+Piloting Sistem Aplikasi Keuangan Tingkat lnstansi (Berita Negara
+Republik Indonesia Tahun 2018 Nomor 1715) sebagaimana telah diubah
+dengan Peraturan Menteri Keuangan Nomor 203/PMK.05/2019 tentang
+Perubahan Atas Peraturan Menteri Keuangan Nomor 159/PMK.05/2018 tentang
+Pelaksanaan Piloting Sistem Aplikasi Keuangan Tingkat lnstansi (Berita
+Negara Republik Indonesia Tahun 2019 Nomor 1691);
 
-A.   Umum
+5. Surat Edaran Menteri Keuangan Nomor SE-2/MK.1/2020 tentang Upaya
+Pencegahan Penyebaran Corona Virus Disease 2019 (COVID-19) di
+Lingkungan Kementerian Keuangan;
 
-Berkenaan  dengan  Surat Edaran  Oirektur Jenderal  Perbendaharaan  Nomor SE-25/PB/2020 tentang Tindak  Lanjut  lmplementasi  Surat  Edaran  Menteri  Keuangan  Nomor SE-5/MK.1 /2020 di Lingkungan Oirektorat Jenderal Perbendaharaan   dan Nomor SE-31/PB/2020 tentang Mekanisme  Pengiriman  Ookumen  Tagihan  Secara  Elektronik  pada  masa  Keadaan  Oarurat Corona Virus Disease 2019 (COVI0-19), antara lain telah diatur bahwa Satuan Kerja menyampaikan  hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL  atau APO PL/SKP- L/C  (bertanda  tangan)  beserta  dokumen  pendukungnya   ke  KPPN  setelah  kondisi  normal kembali sesuai keputusan pejabat yang berwenang.
-Memperhatikan  kondisi  pandemi  COVI0-19  yang  belum  menunjukkan  gejala  mereda,  serta kondisi normal kembali  sebagaimana  diatur Surat Edaran  Oirektur Jenderal Perbendaharaan Nomor SE-25/PB/2020 Jo. SE-31/PB/2020 dimaksud belum dapat diprediksi kapan akan terjadi, maka  perlu  mengatur Mekanisme  Penyampaian  Hardcopy SPM/SP38 BLU/MPHL-BJS  atau SP2HL/SP4HL  atau APO PL/SKP-L/C (Bertanda Tangan) pada Masa Keadaan Oarurat Corona Virus Disease 2019  (COVI0-19).
+6. Surat Edaran Menteri Keuangan Nomor SE-4/MK.1/2020 tentang Imbauan
+Tindak Lanjut Pencegahan Corona Virus Disease 2019 (COVID-19) di
+Lingkungan Kementerian Keuangan;
 
+7. Surat Edaran Menteri Keuangan Nomor SE-5/MK.1/2020 tentang Panduan
+Tindak Lanjut Terkait Pencegahan Penyebaran Corona Virus Disease 2019
+(COVID-19) di Lingkungan Kementerian Keuangan;
 
-B.  Maksud dan Tujuan
+8. Surat Edaran Direktur Jenderal Perbendaharaan Nomor SE-25/PS/2020
+tentang Tindak Lanjut lmplementasi Surat Edaran Menteri Keuangan Nomor
+SE-5/MK.1/2020 di Lingkungan Direktorat Jenderal Perbendaharaan.
 
-1.   Melakukan  pengaturan  Mekanisme  Penyampaian  Hardcopy SPM/SP38  BLU/MPHL-BJS atau SP2HL/SP4HL  atau APO PL/SKP-L/C (Bertanda Tangan)    beserta dokumen pendukungnya sebagai tindak lanjut dari proses pencairan dana APBN pada masa keadaan darurat COVI0-19 sesuai ketentuan yang berlaku.
-2.   Memastikan  pelaksanaan  tugas dan fungsi  pencairan dana, pengesahan  pendapatan  dan belanja,  pengesahan  memo  persetujuan  hibah  langsung  dalam  bentuk  barang/jasa/surat berharga,  pengesahan  pendapatan  dan  hi bah,  dan  pemrosesan  APO  PL/SKP-L/C  pada h Oirektorat Jenderal  Perbendaharaan tetap berjalan  secara efektif dan efisien.                        �
+9. Surat Edaran Direktur Jenderal Perbendaharaan Nomor SE-31/PS/2020
+tentang Mekanisme Pengiriman Dokumen Tagihan Secara Elektronik pada
+masa Keadaan Daruratfl Corona Virus Disease 2019 (COVID-19)
 
+E. Ketentuan
 
+1. KPPN menyampaikan pemberitahuan kepada seluruh Satuan Kerja mitra
+kerja untuk menyampaikan hardcopy SPM/SP3B BLU/MPHL-BJS atau
+SP2HL/SP4HL atau APO PL/SKP-L/C (bertanda tang an) beserta dokumen
+pendukung ke KPPN.
 
+2. Periode penyampaian hardcopy SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL
+atau APO PL/SKP-L/C (bertanda tangan) beserta dokumen pendukung ke KPPN
+diatur sebagai berikut:
 
+a. SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C yang
+telah disampaikan secara elektronik dan telah diterbitkan SP2D/SP28
+BLU/MPHL-BJS/SPHL/SP3HL/Cover Letter APO PL/SKP-L/C pada periode
+penerbitan SP2D bulan Maret 2020 sampai dengan bulan Oktober 2020 (SPM
+dengan SP2D tertanggal 16 Maret 2020 s.d. 27 Oktober 2020) disampaikan
+per bulan secara bertahap pada jam kerja paling lambat tanggal 23
+Desember 2020.
 
-[!]     . .    .         ;,
-C.  Ruang Lingkup
+b. SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APO PL/SKP-L/C yang
+telah disampaikan secara elektronik dan telah diterbitkan
+SP2D/SPHL/SP3HL/Cover Letter APO PL/SKP-L/C mulai bulan November 2020
+(SPM dengan SP2D tertanggal bulan berkenaan) disampaikan per bulan pada
+jam kerja paling lambat tanggal 20 bulan berikutnya. Dalam hal tanggal
+20 bulan berikutnya merupakan hari libur/diliburkan, hardcopy SPM/SP3B
+BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C (bertanda tangan)
+beserta dokumen pendukung disampaikan paling lambat pada hari kerja
+berikutnya.
 
-Surat   Edaran   ini   memuat   pengaturan   mengenai   Mekanisme    Penyampaian    Hardcopy SPM/SP3S  SLU/MPHL-SJS  atau  SP2HL/SP4HL  atau APO  PL/SKP-L/C  (Bertanda Tangan) beserta dokumen  pendukungnya  untuk Satuan  Kerja  Pengguna  Aplikasi  SAS,  Satuan  Kerja Piloting Sistem Aplikasi Keuangan Tingkat lnstansi (SAKTI), dan Satuan Kerja Akses Lang sung Sistem Perbendaharaan  dan Anggaran  Negara  (SPAN)  pada masa keadaan darurat  COVID-
-19.
+3. Penyampaian hardcopy SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APD
+PL/SKP-L/C (bertanda tangan) beserta dokumen pendukung ke KPPN
+dilakukan dengan ketentuan sebagai berikut:
 
+a. Proses pada Satker
 
-D.   Dasar Hukum
+1) PPSPM mencetak Daftar SP2D per Satker secara bulanan melalui
+aplikasi OM-SPAN dengan cara:
 
-1.   Peraturan  Menteri  Keuangan   Nomor  250/PMK.05/2010  tentang   Tata  Cara  Pencairan Anggaran  Pendapatan  dan  Selanja  Negara  Sagian  Atas  Seban  Anggaran  Sendahara Umum Negara Pada Kantor Pelayanan  Perbendaharaan Negara  (Serita Negara Republik Indonesia Tahun 2010  Nomor 662);
-2.    Peraturan  Menteri  Keuangan  Nomor  190/PMK.05/2012  tentang  Tata  Cara  Pembayaran Dalam Rangka Pelaksanaan Anggaran Pendapatan dan Selanja Negara (Serita Negara Republik Indonesia Tahun 2012 Nomor 1191) sebagaimana telah diubah dengan Peraturan Menteri  Keuangan  Nomor 178/PMK.05/2018 tentang  Perubahan Atas  Peraturan  Menteri Keuangan Nomor 190/PMK.05/2012 tentang Tata Cara Pembayaran Dalam Rangka Pelaksanaan Anggaran Pendapatan dan Selanja Negara (Serita Negara Republik Indonesia Tahun 2018  Nomor 1736);
-3.    Peraturan   Menteri   Keuangan   Nomor   154/PMK.05/2014   tentang   Pelaksanaan   Sistem
-Perbendaharaan  dan Anggaran  Negara  (Serita  Negara  Republik  Indonesia  Tahun  2014
-Nomor  1062)  sebagaimana   telah  diubah  dengan  Peraturan   Menteri   Keuangan  Nomor
-278/PMK.05/2014    tentang    Perubahan    Atas    Peraturan    Menteri    Keuangan    Nomor
-154/PMK.05/2014  tentang  Pelaksanaan  Sistem  Perbendaharaan  dan Anggaran  Negara
-(Serita  Negara  Republik Indonesia Tahun 2014  Nomor 2100);
+a) membuka aplikasi OMSPAN sesuai nama pengguna dan kata sandi masing-
+masing Satker
 
-4.   Peraturan   Menteri   Keuangan   Nomor   159/PMK.05/2018   tentang   Pelaksanaan   Piloting
-Sistem Aplikasi  Keuangan Tingkat lnstansi  (Serita  Negara  Republik Indonesia Tahun 2018
-Nomor  1715)  sebagaimana   telah  diubah  dengan   Peraturan   Menteri   Keuangan  Nomor
-203/PMK.05/2019    tentang    Perubahan    Atas    Peraturan    Menteri    Keuangan    Nomor
-159/PMK.05/2018 tentang Pelaksanaan  Piloting Sistem Aplikasi Keuangan Tingkat lnstansi
-(Serita  Negara  Republik Indonesia Tahun 2019  Nomor 1691 );
+b) pilih Modul Pembayaran > menu Daftar SP2D Per Satker
 
-5.  Surat Edaran Menteri Keuangan Nomor SE-2/MK.1/2020 tentang Upaya Pencegahan Penyebaran   Corona   Virus   Disease   2019   (COVID-19)   di   Lingkungan   Kementerian Keuangan;
-6.   Surat Edaran Menteri Keuangan  Nomor SE-4/MK.1/2020 tentang  lmbauan Tindak  Lanjut Pencegahan    Corona   Virus   Disease   2019   (COVID-19)   di   Lingkungan   Kementerian Keuangan;
-7.    Surat Edaran Menteri Keuangan  Nomor SE-5/MK.1/2020 tentang  Panduan  Tindak Lanjut Terkait  Pencegahan  Penyebaran  Corona  Virus Disease  2019 (COVID-19) di Lingkungan Kementerian  Keuangan;
-8.   Surat  Edaran  Direktur Jenderal  Perbendaharaan  Nomor SE-25/PS/2020 tentang  Tindak Lanjut    lmplementasi    Surat    Edaran    Menteri    Keuangan    Nomor   SE-5/MK.1 /2020   di Lingkungan  Direktorat Jenderal  Perbendaharaan.
-9.   Surat    Edaran    Direktur    Jenderal    Perbendaharaan    Nomor    SE-31/PS/2020    tentang Mekanisme  Pengiriman  Dokumen Tagihan Secara  Elektronik pada masa Keadaan Daruratfl Corona  Virus Disease 2019 (COVID-19)
+c) pilih menu Filter > masukkan periode bulan berkenaan (contoh: 1
+April 2020 sd 30 April 2020)
 
--2-
-E.    Ketentuan
+d) pilih menu Kirim
 
-1.  KPPN menyampaikan pemberitahuan kepada seluruh Satuan Kerja mitra kerja untuk menyampaikan  hardcopy  SPM/SP3B   BLU/MPHL-BJS   atau   SP2HL/SP4HL  atau   APO PL/SKP-L/C  (bertanda tang an) beserta  dokumen  pendukung  ke KPPN.
-2.   Periode  penyampaian  hardcopy  SPM/SP3B  BLU/MPHL-BJS  atau   SP2HL/SP4HL  atau APO PL/SKP-L/C (bertanda tangan)  beserta  dokumen  pendukung  ke KPPN diatur sebagai berikut:
-a. SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APO PL/SKP-L/C yang telah disampaikan secara elektronik dan telah diterbitkan SP20/SP28 BLU/MPHL- BJS/SPHL/SP3HL/Cover Letter APO  PL/SKP-L/C  pada  periode  penerbitan  SP20  bulan Maret 2020  sampai  dengan   bulan  Oktober  2020  (SPM  dengan  SP2D  tertanggal  16
-Maret  2020  s.d.  27 Oktober 2020)  disampaikan  per  bulan  secara bertahap  pada jam kerja  paling  lambat tanggal  23 Desember 2020.
-b. SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APO PL/SKP-L/C yang telah disampaikan  secara  elektronik dan  telah  diterbitkan  SP20/SPHL/SP3HL/Cover  Letter APO  PL/SKP-L/C  mulai  bulan  November 2020  (SPM dengan  SP20 tertanggal  bulan berkenaan) disampaikan  per  bulan  pada jam  kerja  paling  lambat tanggal  20  bulan berikutnya.  Oalam  hal  tanggal   20  bulan  berikutnya  merupakan  hari  libur/diliburkan, hardcopy  SPM/SP3B   BLU/MPHL-BJS   atau   SP2HL/SP4HL  atau   APO   PL/SKP-L/C (bertanda tangan)   beserta  dokumen   pendukung   disampaikan  paling  lambat  pada  hari kerja  berikutnya.
+e) pilih menu (download) PDF
 
+2) PPSPM melengkapi hardcopy SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL
+atau APO PL/SKP-L/C (bertanda tangan) beserta dokumen pendukung
+berdasarkan Daftar SP2D Per Satker yang telah dicetak melalui aplikasi
+OMSPAN. Nomor SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL atau APD
+PL/SKP-L/C adalah 5 digit angka pertama pada kolom Nomor Invoice.
 
-3.   Penyampaian   hardcopy   SPM/SP3B   BLU/MPHL-BJS   atau   SP2HL/SP4HL   atau   APO PL/SKP-L/C  (bertanda tangan)  beserta  dokumen   pendukung   ke  KPPN  dilakukan   dengan ketentuan sebagai  berikut:
-a.  Proses pada Satker
+3) PPSPM membuat Surat Pengantar sesuai dengan format sebagaimana
+tercantum dalam Lampiran Huruf A yang merupakan bagian tidak
+terpisahkan dari Surat Edaran ini.
 
-1)     PPS PM  mencetak  Oaftar  SP20  per  Satker  secara  bulanan   melalui  aplikasi  OM- SPAN  dengan  cara:
-a)    membuka  aplikasi  OMSPAN  sesuai  nama  pengguna  dan  kata sandi  masing- masing  Satker
-b)    pilih Modul  Pembayaran  > menu  Daftar SP2D  Per Satker
+4) KPA menandatangani dan menyampaikan Surat Pengantar dilampiri dengan
+Oaftar SP20 Per Satker dan hardcopy SPM/SP3B BLU/MPHL-BJS atau
+SP2HL/SP4HL atau APO PL/SKP-L/C (bertanda tangan) beserta dokumen
+pendukung ke KPPN.
 
-c)    pilih menu  Filter>  masukkan  periode  bulan  berkenaan  (contoh:  1    April  2020 sd 30 April  2020)
-d)    pilih menu  Kirim
+5) Penyampaian Surat Pengantar dilampiri dengan Daftar SP2D Per Satker
+dan hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau APO PL/SKP-L/C
+(Bertanda Tangan) beserta dokumen pendukung ke KPPN dilakukan:
 
-e)    pilih menu (download)  PDF
+a) secara langsung melalui Petugas Pengantar SPM;
 
-2)    PPSPM   melengkapi  hardcopy  SPM/SP3B  BLU/MPHL-BJS  atau   SP2HL/SP4HL atau    APO     PL/SKP-L/C    (bertanda    tangan)     beserta     dokumen     pendukung berdasarkan Oaftar SP20 Per Satker yang telah  dicetak  melalui  aplikasi  OMSPAN. Nomor  SPM/SP3B  BLU/MPHL-BJS  atau  SP2HL/SP4HL  atau  APO   PL/SKP-L/C adalah  5 digit angka  pertama  pada kolom  Nomor Invoice.
-3)    PPSPM  membuat  Surat Pengantar sesuai  dengan  format sebagaimana tercantum dalam   Lampiran  Huruf  A  yang   merupakan   bagian   tidak  terpisahkan  dari  Surat Edaran  ini.
-4)    KPA menandatangani dan menyampaikan Surat Pengantar dilampiri dengan  Oaftar SP20  Per Satker dan  hardcopy SPM/SP3B  BLU/MPHL-BJS  atau  SP2HL/SP4HL atau APO  PL/SKP-L/C  (bertanda tangan)  beserta  dokumen  pendukung  ke KPPN.
--3-
-5)    Penyampaian   Surat  Pengantar  dilampiri  dengan   Daftar  SP2D  Per  Satker  dan hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL  atau APO  PL/SKP-L/C (Bertanda Tangan) beserta dokumen pendukung ke KPPN dilakukan:
-a)    secara  langsung  melalui Petugas Pengantar SPM;
+b) melalui sarana pengiriman pos/ekspedisi; atau
 
-b)    melalui sarana pengiriman  pos/ekspedisi;  atau c)    melalui sarana pengiriman  lainnya.
-6)    Penyampaian   secara  langsung  melalui  Petugas  Pengantar  SPM  sebagaimana dimaksud  pada angka 3 huruf a butir 5) pain a), dilakukan  sesuai dengan protokol kesehatan   yang   mengacu   pada  ketentuan   yang  diterbitkan   oleh   Kementerian Kesehatan  RI dan/atau  Kementerian  Keuangan RI.
+c) melalui sarana pengiriman lainnya.
+
+6) Penyampaian secara langsung melalui Petugas Pengantar SPM
+sebagaimana dimaksud pada angka 3 huruf a butir 5) poin a), dilakukan
+sesuai dengan protokol kesehatan yang mengacu pada ketentuan yang
+diterbitkan oleh Kementerian Kesehatan RI dan/atau Kementerian Keuangan
+RI.
+
 b. Proses pada KPPN
 
-1)    KPPN  menerima  Surat  Pengantar  yang dilampiri  dengan  Daftar SP2D  Per  Satker dan hardcopy SPM/SP38  BLU/MPHL-BJS  atau SP2HL/SP4HL  atau APO PL/SKP- L/C  (Bertanda Tangan)  beserta  dokumen  pendukung  dari satker  melalui  Petugas Front Office  (FO) Seksi Pencairan  Dana.
-2)    Seksi Pencairan  Dana melakukan verifikasi terhadap:
+1. KPPN menerima Surat Pengantar yang dilampiri dengan Daftar SP2D Per
+Satker dan hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau APO
+PL/SKP- L/C (Bertanda Tangan) beserta dokumen pendukung dari satker
+melalui Petugas Front Office (FO) Seksi Pencairan Dana.
 
-a)    Kelengkapan  Dokumen (Surat Pengantar dan Daftar SP2D Per Satker);
+2) Seksi Pencairan Dana melakukan verifikasi terhadap:
 
-b)     Kebenaran  pejabat KPA Satker;
+a. Kelengkapan Dokumen (Surat Pengantar dan Daftar SP2D Per Satker);
 
-c)    Kesesuaian  data yang ada dalam Daftar SP2D  Per Satker yang diterima  dari
-Satker dengan data yang tercantum dalam Aplikasi OM-SPAN,  meliputi:
+b. Kebenaran pejabat KPA Satker;
 
-(1)  Nomor dan tanggal SPM/SP38  BLU/MPHL-BJS  atau SP2HL/SP4HL  atau
+c. Kesesuaian data yang ada dalam Daftar SP2D Per Satker yang diterima
+dari Satker dengan data yang tercantum dalam Aplikasi OM-SPAN,
+meliputi:
+
+1. Nomor dan tanggal SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau
 APO PL/SKP-L/C; dan
 
-(2)  Nomor,     tanggal    dan    nilai     SP20/SP28     BLU/Persetujuan     MPHL- BJS/SPHL/SP3HL/Cover Letter APO PL/SKP-L/C.
-3)    Dalam hal  hasil verifikasi telah sesuai, Surat Pengantar beserta  seluruh dokumen lampirannya ditatausahakan  sesuai ketentuan yang berlaku.
-4)    Dalam  hal  hasil  verifikasi  tidak sesuai,  KPPN  menerbitkan  Surat  Pemberitahuan kepada Satker untuk menyampaikan kembali kelengkapan dokumen yang tidak sesuai/belum  lengkap.
-4.   Khusus  untuk  Satuan  Kerja  Pengguna  aplikasi  SPAN  Akses  Langsung,  hardcopy SPM (Bertanda Tangan) beserta dokumen pendukung tetap disimpan oleh Satuan Kerja dan tidak disampaikan  ke KPPN.
-5.    Dalam hal diperlukan,  Kepala KPPN dapat membentuk tim yang bertugas untuk melakukan verifikasi sebagaimana  dimaksud pada ketentuan angka 3 huruf b diatas.
-6.   Alur   proses  (flowchart)   mekanisme   penyampaian   dan  verifikasi   hardcopy  SPM/SP38
-BLU/MPHL-BJS atau SP2HL/SP4HL  atau APO PL/SKP-L/C  (bertanda tangan) beserta dokumen   pendukung   adalah   sesuai   dengan   format   sebagaimana   tercantum   dalam Lampi ran Huruf 8 yang merupakan bagian tidak terpisahkan dari Surat Edaran  ini.
+2. Nomor, tanggal dan nilai SP20/SP28 BLU/Persetujuan MPHL-
+BJS/SPHL/SP3HL/Cover Letter APD PL/SKP-L/C.
 
+3) Dalam hal hasil verifikasi telah sesuai, Surat Pengantar beserta
+seluruh dokumen lampirannya ditatausahakan sesuai ketentuan yang
+berlaku.
 
-F.    Penutup
+4) Dalam hal hasil verifikasi tidak sesuai, KPPN menerbitkan Surat
+Pemberitahuan kepada Satker untuk menyampaikan kembali kelengkapan
+dokumen yang tidak sesuai/belum lengkap.
 
-1.    Pada  saat  Surat   Edaran   ini   berlaku,   ketentuan   mengenai   mekanisme   penyampaian hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau APO PL/SKP-L/C  (bertanda tangan)  beserta  dokumen  pendukungnya   sebagaimana  tercantum  dalam  Surat  Edaran Direktur Jenderal Perbendaharaan SE-25/PB/2020 dan Nomor SE-31/PB/2020, dicabut dan,fl dinyatakan tidak berlaku.
+4. Khusus untuk Satuan Kerja Pengguna aplikasi SPAN Akses Langsung,
+hardcopy SPM (Bertanda Tangan) beserta dokumen pendukung tetap disimpan
+oleh Satuan Kerja dan tidak disampaikan ke KPPN.
 
+5. Dalam hal diperlukan, Kepala KPPN dapat membentuk tim yang bertugas
+untuk melakukan verifikasi sebagaimana dimaksud pada ketentuan angka 3
+huruf b diatas.
 
+6. Alur proses (flowchart) mekanisme penyampaian dan verifikasi
+hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau APD PL/SKP-L/C
+(bertanda tangan) beserta dokumen pendukung adalah sesuai dengan format
+sebagaimana tercantum dalam Lampiran Huruf 8 yang merupakan bagian
+tidak terpisahkan dari Surat Edaran ini.
 
--4-
-2.   Kepala  Kantor  Wilayah  Direktorat  Jenderal  Perbendaharaan  diminta  untuk  mengawasi pelaksanaan Surat Edaran  Direktur Jenderal ini.
-3.   Surat   Edaran   ini   mulai   berlaku   sejak  tanggal   ditetapkan   sampai   dengan   terbitnya kebijakan/pernyataan lebih  lanjut.
+F. Penutup
 
+1. Pada saat Surat Edaran ini berlaku, ketentuan mengenai mekanisme
+penyampaian hardcopy SPM/SP38 BLU/MPHL-BJS atau SP2HL/SP4HL atau APD
+PL/SKP-L/C (bertanda tangan) beserta dokumen pendukungnya sebagaimana
+tercantum dalam Surat Edaran Direktur Jenderal Perbendaharaan
+SE-25/PB/2020 dan Nomor SE-31/PB/2020, dicabut dan dinyatakan tidak
+berlaku.
 
+2. Kepala Kantor Wilayah Direktorat Jenderal Perbendaharaan diminta
+untuk mengawasi pelaksanaan Surat Edaran Direktur Jenderal ini.
 
-
+3. Surat Edaran ini mulai berlaku sejak tanggal ditetapkan sampai
+dengan terbitnya kebijakan/pernyataan lebih lanjut.
 
 Ditetapkan di Jakarta
 
-pada    2    November2020
+pada 2 November2020
 
 DIREKTUR JENDERAL,
 
-
-
-�·
-�ANDIN  HADIYANTO   Q(
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--5-
-LAMPI RAN
-SURAT EDARAN DIREKTUR JENDERAL PERBENDAHARAAN NOMOR SE-        94         /PB/2020 TENTANG  MEKANISME PENYAMPAIAN   HAROCOPY  SPM/SP3B   BLU/MPHL-BJS   ATAU
-SP2HL/SP4HL   ATAU   APO   PUSKP-UC  (BERTANDA  TANGAN) PADA  MASA  KEADAAN   DARURAT   CORONA   VIRUS  DISEASE
-2019 (COVID-19)
-
-
-
-A.   SURAT  PENGANTAR
-
-
-
-
-KOP SURAT SATUAN  KERJA
-
-
-
-
-Nomor Lampi ran Hal
-.............................  (1)
-1    (satu)  Berkas
-Surat Pengantar Hardcopy SPM/SP3B  BLU/MPHL-BJS  atau SP2HL/SP4HL
-atau APO  PL/SKP-L/C*  (Bertanda Tangan)  beserta  dokumen  pendukungnya
-
-
-
-Yth. Kepala  Kantor Pelayanan  Perbendaharaan  Negara              (2)            . di
-.............. (3)            .
-
-
-Menindaklanjuti   Surat   Pemberitahuan   Kepala    KPPN         (4)........    Nomor    (5)     . Tanggal     (5)..       Hal................   (5)         ,         dengan   ini  disampaikan   Hardcopy  SPM/SP3B BLU/MPHL-BJS  atau  SP2HL/SP4HL  atau  APO   PL/SKP-L/C*  (Bertanda  Tangan)   beserta dokumen    pendukungnya    Satuan   Kerja                                                 (6)......    ..    Kode   Satker
-..................... (?)           untuk periode  bu Ian                        (8)                 sebagaimana terlampir.
-
-
-Atas penyampaian ini, kami menyatakan bahwa SPM/SP3B BLU/MPHL-BJS atau SP2HL/SP4HL   atau  APO   PL/SKP-L/C*  sesuai   daftar  terlampir  adalah   benar  telah   kami terbitkan  dan  ajukan  secara  elektronik (softcopy)  ke  KPPN  serta  telah  diproses oleh  KPPN menjadi  SP20/SP2B  BLU/Persetujuan  MPHL-BJS/SPHL/SP3HL/Cover Letter APO  PL/SKP- L/C* dengan  beban  Anggaran satuan  kerja  kami.
-
-Oemikian disampaikan untuk dapat dipergunakan sebagaimana  mestinya .
-
-
-.  .  .  ..                    ,                                                                                                                          (9) Kuasa  Pengguna Anggaran,
-
-
-.................. (10)                            .
-
-
-<Nama  Jelas>
-<NIP/NRP>
-
-
-*) Pilih yang sesuai
-
-
-
-
-
--6-
-PETUNJUK PENGISIAN SURAT  PENGANTAR
-
-
-NO                                                                       URAIAN  ISIAN
-
-( 1)      Diisi nomor surat pengantar satker bersangkutan
-
-(2)      Diisi nama  KPPN  mitra kerja (3)      Diisi lokasi KPPN  mitra kerja (4)      Diisi nama  KPPN  mitra  kerja
-(5)      Diisi nomor,  tanggal,  dan hal surat pemberitahuan dari  KPPN  mitra  kerja
-
-(6)      Diisi nama  satker yang  bersangkutan
-
-(7)      Diisi kode satker yang  bersangkutan  (enam  digit)
-
-(8)      Diisi periode  bulan  penerbitan  Hardcopy SPM/SP38  BLU/MPHL-BJS  atau
-SP2HL/SP4HL atau APO PL/SKP-L/C
-
-(9)      Diisi tempat  lokasi  Satker dan tanggal  pembuatan surat   pengantar
-
-(10)     Diisi tanda  tangan  Kuasa  Pengguna  Anggaran beserta  cap dinas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--7-
-B.   ALUR  PROSES
-
-
-Alur Proses (Flowchan)  Mekanisme
-Penyampaian dan Verifikasi  Hardcopy SPM/SP38  BLU/MPHL-BJS atau SP2HL/SP4HL atau APO PUSKP-UC (bertanda tangan)
-
-Seksi Pencairan Dana                                                            Kepala KPPN                 Subagian Umum
-l Mula,J---
-
-
-Tanda Tangan Surat Pemberitahuan
-
-
-Pengiriman  ke
-Satker
-
-
-Tidak
-Sesuai
-K
-p
-p                                                                    -: Verifika:i
-Menerima surat                      /,,-/  I.    Kelengkapan dokumen:
-N            pengantar, daftar                                              1.  Surat Pengantar
-SP20,  hardcopy dok.  .....---,-.                        2.  Daftar SP20
-tagihan, dan dok.                                         II.   Kebenaran Pejabat KPA
-pendukung                                �  iii. Kesesuaian Daftar SP2D
-� pada OMSPAN
-Surat Pengantar, Daftar SP20, dan hardcopy dok. tagihan dan dok. pendukung
-        ./--
-
-
-�/
-�--�   -
----==-
-
-
-
-Tanda tangan
-Surat Pengantar
-
-
-
-s A T K
-E        Membuat Surat
-
-
-
-
-
-Sesuai
-
-
-
-
-
-Verifikasi
-Daftar SP20 dan
-
-
-
-
-
-I        Melengkapi
-� hardcopy dok.
-
-
-
-
-
-
-Cetak Daftar
-Surat Pengantar, Daftar SP2D, dan hardcopy dok. tagihan dan dok pendukung
-
-
-
-Menerima Surat
-R          Pengantar    1----<
-hardcopy dok
-�g��an dan dok. "<ndukung
-------,  tagihan dan dok.
-I         pendukung
-L                                           -
-SP20
-Pemberitahuan
-
-Tidak
-Sesuai  ...._
-Daftar SP20,
-hardcopy dok.
-     ,     tagihan,  dan dok. pendukung
-/
-
-PPSPM                                                                                                                              KPA
-
-
-
-
-
-
-DIREKTUR JENDERAL,
-
-�;
-iANDIN  HADIYANTO  df
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--8-
+ANDIN HADIYANTO
