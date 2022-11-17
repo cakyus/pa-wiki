@@ -1,0 +1,606 @@
+KEMENTERIAN  KEUANGAN REPUBLIK INDONESIA
+DIREKTORATJENDERALPERBENDAHARAAN
+
+PERATURAN  DIREKTUR JENDERAL PERBENDAHARAAN NOMOR PER-  89 /PB/2011
+
+TENTANG
+
+
+MEKANISME PENGIRIMAN DAN KOREKSI DATA
+PADA KANTOR PELAYANAN PERBENDAHARMN  NEGARA
+
+DIREKTUR JENDERAL PERBENDAHARMN,
+
+Menimbang
+
+
+
+
+
+
+
+
+
+Mengingat
+a. bahwa dalam  rangka  menghasilkan  laporan  Kantor  Pelayanan Perbendaharaan Negara yang akurat dan dapat dipertanggungjawabkan, perlu mengatur pelaksanaan pengiriman dan koreksi data;
+
+b.    bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan  Direktur Jenderal Perbendaharaan tentang Mekanisme Pengiriman dan Koreksi Data pada Kantor Pelayanan Perbendaharaan Negara;
+
+1. Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara (Lembaran   Negara   Republik   Indonesia   Tahun   2003    Nomor   47, Tambahan Lembaran Negara Republik Indonesia Nomor 4286);
+
+2.   Undang-Undang Nomor 1    Tahun 2004 tentang Perbendaharaan  Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor 4355);
+
+3. Undang-Undang  Nomor  15  Tahun  2004  tentang  Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 66. Tambahan Lembaran Negara Republik Indonesia Nomor 4400);
+
+4.   Peraturan Menteri Keuangan Nomor 134/PMK.06/2005 tentang Pedoman Pembayaran dalam Pelaksanaan Anggaran Pendapatan dan Belanja Negara;
+
+5.   Peraturan  Menteri  Keuangan  Nornor  171/PMK.05/2007  tentang  Sistem
+Akuntansi dan Pelaporan Keuangan Pemerintah Pusat;
+
+6. Peraturan  Menteri  Keuangan  Nomor  101/PMK.01/2008  tentang Organisasi dan Tata Kerja lnstansi Vertikal Direktorat Jenderal Perbendaharaan;
+
+7.   Peraturan Direktur Jenderal Perbendaharaan Nomor PER-66/PB/2005 tentang Mekanisme Pelaksanaan Pembayaran atas Beban Anggaran Pendapatan dan Belanja Negara sebagaimana telah diubah dengan Peraturan Direktur Jenderal Perbendaharaan Nomor PER-11/PB/2011;
+
+8.  Peraturan Direktur Jenderal Perbendaharaan Nomor PER-69/PB/2006 tentang Pedoman Koreksi Kesalahan Laporan Keuangan;
+
+9.  Peraturan Direktur Jenderal Perbendaharaan Nomor PER-65/PB/2007 tentang Tata Cara Pengembalian Pendapatan dan/atau Penerimaan dan Koreksi Pembukuan Penerimaan;
+
+
+
+
+
+/
+
+10. Peraturan  Direktur  Jenderal  Perbendaharaan  Nomor  PER-36/PB/2009 tentang   Pedoman  Rekonsiliasi  dan  Penyusunan  Laporan  Keuangan Kuasa Bendahara Umum Negara;
+
+11. Peraturan  Direktur  Jenderal  Perbendaharaan  Nomor  PER-57/PB/2010 tentang  Tata  Cara  Penerbitan  Surat  Perintah  Membayar  dan  Surat Perintah Pencairan Dana;
+
+12. Peraturan  Direktur  Jenderal  Perbendaharaan  Nomor  PER-65/PB/2010 tentang Pedoman Penyusunan Laporan Keuangan Kementerian Negara/Lembaga;
+
+
+MEMUTUSKAN:
+
+
+Menetapkan
+PERATURAN DIREKTUR JENDERAL PERBENDAHARAAN TENTANG MEKANISME PENGIRIMAN DAN KOREKSI DATA PADA KANTOR PELAYANAN PERBENDAHARAAN NEGARA
+
+
+BABI KETENTUAN UMUM
+
+Pasal 1
+
+Dalam  Peraturan  Direktur  Jenderal  Perbendaharaan  ini  yang  dimaksud dengan:
+
+1.    Bendahara Umum Negara yang selanjutnya disebut BUN adalah pejabat yang diberi tugas untuk melaksanakan fungsi bendahara umum negara.
+
+2.     Kuasa Bendahara Umum Negara yang selanjutnya disebut Kuasa BUN adalah pejabat yang diangkat oleh Bendahara Umum Negara untuk melaksanakan   tugas   kebendaharaan   dalam   rangka    pelaksanaan anggaran dalam wilayah  kerja yang telah ditetapkan.
+
+3.     Kuasa     BUN     di     Daerah    adalah     Kepala     Kantor     Pelayanan
+Perbendaharaan Negara.
+
+4.    Kantor Wilayah  Direktorat Jenderal  Perbendaharaan  yang selanjutnya disebut Kanwil Ditjen Perbendaharaan adalah instansi vertikal Direktorat Jenderal  Perbendaharaan  yang  berada  di  bawah  dan  bertanggung jawab langsung kepada Direktur Jenderal Perbendaharaan.
+
+5.     Kantor Pelayanan Perbendaharaan Negara yang selanjutnya disingkat KPPN adalah instansi vertikal Direktorat Jenderal Perbendaharaan yang berada  di  bawah  dan  bertanggung  jawab  langsung  kepada  Kepala Kantor Wilayah Direktorat Jenderal Perbendaharaan.
+
+6.   Laporan Kas Posisi yang selanjutnya disingkat LKP adalah laporan manajerial pengelolaan kas yang menggambarkan posisi awal kas, kas masuk,  kas keluar, dan posisi akhir kas rekening Kuasa BUN di Daerah.
+
+
+
+- 2 -
+
+
+
+
+I·
+7.     Laporan Arus  Kas yang selanjutnya disingkat  LAK adalah  laporan yang menyajikan  informasi  mengenai  sumber,  penggunaan,   dan  perubahan kas dan setara kas selama  satu periode akuntansi  serta  saldo  kas dan setara kas pada tanggal pelaporan.
+
+8.   Arsip Data Komputer yang selanjutnya disingkat ADK adalah sarana penyimpanan   data  yang  dapat  digunakan   untuk  memindahkan  data dari/ke  suatu  komputer   lainnya  secara   elektronik   antara  lain  disket, flashdisk,  atau compact disk (CD).
+
+9.   ADK  laporan  KPPN adalah ADK  Laporan  Kas Posisi  dan  Laporan  Arus
+Kas.
+
+10.  Posting  adalah  proses memindahkan  ayat-ayat  jurnal  yang tel ah dibuat dalam buku jurnal ke dalam buku besar.
+
+11.  Koreksi    Data   adalah    proses    memperbaiki    data    transaksi    tanpa mengubah  data awal, dimana hasil koreksi membentuk history.
+
+
+BABII
+
+RUANG  LINGKUP
+
+
+Pasal 2
+
+
+Peraturan Direktur Jenderal Perbendaharaan  ini mengatur:
+
+1.     Pengiriman ADK laporan KPPN:
+
+2.    Koreksi data pada KPPN;
+
+3.    Monitoring ADK laporan  KPPN.
+
+
+BAB Ill
+
+PELAKSANAAN  PADA KPPN
+
+Bagian Pertama
+
+Pengiriman Data
+Pasal3 (1)   KPPN menyusun  LKP dan LAK.
+
+(2)  LKP dan  LAK sebagaimana dimaksud  pada  ayat  (1)  dikirimkan  dalam bentuk ADK laporan KPPN ke Kantor Pusat Direktorat Jenderal Perbendaharaan  c.q.  Direktorat  Sistem   Perbendaharaan  dan  Kanwil Ditjen Perbendaharaan.
+
+(3)  LKP dan  LAK  sebagaimana  dimaksud  pada  ayat (1)  dikirimkan dalam bentuk  hardcopy  sesuai  ketentuan  yang  mengatur  mengenai penyampaian    LKP   dan   pengiriman   Laporan   Keuangan    Pemerintah Pusat.
+
+
+
+- 3 -
+
+
+
+
+I-
+Pasal  4
+
+
+(1)   Pengiriman ADK  laporan  KPPN  sebagaimana dimaksud dalam   Pasal  3 ayat  (2) dilakukan oleh  Supervisor melalui  saluran  komunikasi  data yang telah  disediakan oleh  Kantor  Pusat  Direktorat Jenderal Perbendaharaan setelah   seluruh  transaksi   penerimaan   dan   pengeluaran   pada    hari berkenaan telah  berhasil  di-posting oleh Seksi  Verifikasi dan Akuntansi.
+
+(2)   Dalam   hal  terdapat  transaksi  yang  tidak   ter-posting,  Seksi   Pencairan Dana   dan/atau  Seksi   Bank/Giro  Pos   melakukan  koreksi   data  pada Aplikasi  SP2D  dan/atau Aplikasi  Bendum  sesuai  kewenangannya.
+
+(3)   ADK    laporan   KPPN    dikirimkan   paling    lambat   pukul    10.00   waktu setempat pada hari  kerja berikutnya.
+
+(4)   Dalam  hal sampai  batas waktu  pengiriman sebagaimana dimaksud pada ayat    (3)    masih    terdapat   data    transaksi   yang    belum    ter-posting, Supervisor tetap  mengirim ADK  laporan  KPPN.
+
+(5)   Seksi     Pencairan    Dana     dan/atau     Seksi      Bank/Giro    Pos     tetap menindaklanjuti  data   transaksi  yang   belum   ter-posting   sebagaimana dimaksud  pada  ayat  (4)  dengan   melakukan koreksi   data  pada  Aplikasi SP2D  dan/atau Aplikasi  Bendum  sesuai  kewenangannya.
+
+
+Bagian  Kedua
+
+Koreksi  Data
+
+Pasal5
+
+
+Koreksi  data  pada KPPN  dilakukan terhadap:
+
+a.   Data  setoran  penerimaan  negara melalui  Bank/Pos  Persepsi; dan/atau b.   Data pengeluaran  dan/atau  potongan melalui  penerbitan  SPM/SP2D.
+
+Pasai6
+
+
+(1)   Koreksi   data  sebagaimana  dimaksud  dalam   Pasal  5 dilakukan  dengan ketentuan  sebagai  berikut:
+
+a.   Koreksi   atas  data  transaksi   bulan   berjalan   yang   dilakukan  pada bu1an  berjalan,  masuk  dalam  laporan  tangga1  dilakukan koreksi;
+
+b.    Koreksi  atas  data  transaksi sampai  dengan   bulan  sebelumnya yang dilakukan pada  bulan  berjalan,  sepanjang Laporan Keuangan Pemerintah   Pusat    Bulanan    belum    disampaikan,   masuk   dalam laporan tanggal  akhir hari kerja  bulan  sebelumnya;
+
+c.   Koreksi  atas data  transaksi sampai  dengan   bulan  sebelumnya yang dilakukan pada  bulan  berjalan,  sepanjang Laporan Keuangan Pemerintah Pusat  Bulanan  telah  disampaikan, masuk dalam  laporan tanggal dilakukan koreksi;
+
+
+-4-
+
+
+
+
+(
+
+
+
+LAMPIRAN I
+PERATURAN OIREKTUR JENDERAL PERBENDAHARAAN   NOMOR  PER�   8q   /PB/2011
+TENTANG   MEKANISME   PENGIRll'AAN   DAN KOREKSI DATA PADA KANTOR PELAYANAN PERBENDAHARAAN  NEGARA
+
+
+
+< KOP SURAT>
+
+
+
+
+Nornor
+Lampiran
+Hal                    Permintaan  Koreksi Data
+
+
+
+
+Yth. Kepala KPPN                           .
+
+
+Bersama  ini  kami  mengajukan  permint-aan  koreksi  data  SPM  sebagaimana  tersebut pada Daftar Rincian  Koreksi Data. Sebagai  bahan pertimbangan  kami lampirkan:
+
+1.     Copy SPM dan SP2D sebelum koreksi;
+
+2.    SPM setelah koreksi;
+
+3.     Surat Pernyataan  Tanggung Jawab Mutlak (SPTJM);  dan
+
+4.    ADK Koreksi SPM.
+
+Demikian  kami sampaikan  untuk mendapat  penyelesaian  lebih  lanjut.
+
+
+
+Kuasa  Pengguna Anggaran
+
+
+
+
+Nama                         . NIP                             .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 8 -
+
+
+
+I
+
+
+DAFTAR  RINCIAN  KOREKSI  DATA
+
+Kementerian  Negara/Lembaga
+Bagian Aggaran/ Eselon I Satuan Kerja
+:    (         )                                                                                                           (1)
+:      (        )                                                                                                                                       (2)
+:    (         )                                                                                                                                       (3)
+Nomor SPM NomorSP2D
+:                                                                                                                                  (4)       Tanggal  SPM               :                                                                                                               (5)
+:                                                                                      (6)       Tanggal  SP2D              :                                                                                                               (7)
+Jumlah Total Pengeluaran
+
+······················     (8)                  ··········· .
+Jumlah  Total Potongan                           Jumlah  Bersih
+.......................  (9)                                                   (10)                        .
+
+Uraian Unit Organisasi KP/KD/DK/TP/UB Fungsi/Subfungsi/Program Kegiatan/Output
+Klasifikasi  Belanja
+Pembayaran
+.................  (13)                            .
+
+
+Tertulis
+Koreksi Kode Pengeluaran  : Kode
+.................      (14)                       .
+.....................  (14)                       .
+Jumlah
+Koreksi Kode Potongan: Kode
+.....................  (20)                       .
+.....................  (20)                       .
+Jumlah
+Tertulis                                               Seharusnya
+:                                                              (11)                              :                                                                                               (12)                        .
+:                                                              ( 11)  . .  . . . . . . .  . . . .  .  .  . . . . . ..     :                                                              ( 12)                        .
+:                                                                                               (11)                              :                                                              (12)                        .
+:                                                              (11)                              :                                                                          (12)                        .
+:                                                              (11)                              :                                                                                               (12)                        .
+:                                                              (11)                              :                                                              (12)                        .
+:                                                             (11)                              :                                                              (12)                        .
+
+
+Seharusnya
+
+
+
+Rp                                      Kode                                      Rp
+............  ( 15)  . .  .  . .   .  .   .  . .           .                                         ( 16)  . . . . . .  . . . . .  .  . . . . .  . .  .           .  . .   .   .  .  . . .  . .    ( 17)           .
+..             (15)                 .                                         (16)                            .                             (17)           .
+..             (18)                                  Jumlah                                    (19)           .
+
+
+Rp                 Kode                                      Rp
+............  (21)                                   (22)                                         (23)           .
+..             (21)                 .                                         (22)                            .                             (23)           .
+.                                     (24)                                  Jumlah                                    (25)           .
+
+
+
+Kuasa Pengguna Anggaran
+
+
+
+Nama                         .
+NIP                             .
+
+
+
+
+
+
+
+
+- 9 -
+
+
+
+/·
+PETUNJUK  PENGISIAN DAFTAR  RINCIAN  KOREKSI DATA
+-··       -·
+NO.                                                                          URAIAN  ISIAN
+(1)      Diisi dengan  kode dan  uraian  kementerian negara/lembaga
+
+(2)      Diisi dengan  kode dan  uraian  bagian  anggaran eselon  I (3)      Diisi dengan  kode  dan  uraian  satuan  kerja
+(4)     Diisi dengan  nomor  SPM  yang  dilakukan  koreksi (5)      Diisi dengan  tanggal SPM  yang  dilakukan  koreksi (6)      Diisi  dengan  nomor  SP2D  yang  dilakukan koreksi (7)  Diisi dengan  tanggal SP2D  yang  dilakukan  koreksi
+(8)      Diisi dengan jumlah total  pengeluaran  pada  SPM
+
+(9)      Diisi dengan jumlah total  potongan pada  SPM
+
+(10)     Diisi dengan jumlah bersih  pada  SPM  (sama  dengan  jumlah pada  SP2D) (11)     Diisi dengan  kode tertulis pada  SPM
+(12)     Diisi dengan  kode seharusnya pada SPM
+
+(13)     Diisi dengan  uraian  pada  SPM selain  tercantum di atasnya
+(14)    Diisi dengan  kode  akun tertulis pada SPM (15)     Diisi dengan  nilai uang  pada  akun tersebut
+(16)     Diisi dengan  kode akun  seharusnya pada  SPM (17)     Dilsi  dengan  nilai  uang  pada  akun tersebut
+(18)     Diisi dengan jumlah uang  sebelum  koreksi
+�9)     Diisi  dengan  jumlah uang  setelah  koreksi
+(20)     Diisi dengan  kode BA/Unit Es 1/Lokasi/Akun/Satker yang  tertulis pada  potongan  SPM (21)    Diisi dengan  nilai uang  pada  kode tersebut
+(22)     Diisi dengan  kode  BA/Unit  Es 1/Lokasi/Akun/Satker yang  seharusnya pada  potongan  SPM
+
+(23)     Diisi  dengan  nilai uang  pada  kode tersebut
+
+(24)     Diisi dengan  jumlah  uang  sebelum koreksi
+
+(25)     Diisi dengan  jumlah  uang  setelah  koreksi
+
+
+
+;;::1rDERAL,
+
+AGUS SUPRIJANTO              l
+)·    NIP  19530814  197507  1   001  \V
+
+
+
+
+
+
+
+
+-  10 -
+LAMPIRAN II
+PERATU RAN               OIREKTUR               JENDERAL PERBENDAHARAAN   NOMOR  PER-     89 /PB/2011
+TENTANG   MEKANISME   PENGIRIMAN   DAN KOREKSI DATA PADA KANTOR PELAYANAN PERBENDAHARMN  NEGARA
+
+KEMENTERIAN  KEUANGAN RI
+OIREKTORAT JENDERAL PERBENDAHARAAN KANTORWILAYAH  PROVINS!.                                 .
+
+
+Nomor
+Tanggal
+NOTA  PENYESUAIAN
+:                                                                                                                           (2)
+:                                                                                                  (3)
+KPPN                                                                                (1)
+Tahun Anggaran
+:                        ························  (4)
+Berdasarkan  Surat Permintaan  Koreksi  Data Nomor                             Tanaaal                                                (5) Kementerian  Neaara/Lembaqa                        :     (       )                                                                                                                                      (6) Baaian Aaoaran/ Eselon  I                                                                     :     (       )                                                                                                                                      (7) Satuan Keri a                                                      :  (      )                                                                                                                                                   (8)
+Nomor SPM                     I         :                                                                                                                                                         (9)    I     Tanqoal  SPM                    :                                                                                                                                 (10) Nomor SP2D                    I      :                                                                                                     (11)    I      Tanaaal  SP2D                  :                                                                                                           (12)
+Jumlah  Total  Penaeluaran
+
+..................  (13)                                       .
+
+
+Uraian
+Unit Orqerusasi
+KP/KD/DK/TP/UB
+F unasi/Subfunasi/Proaram
+
+KeQiatan/Output Klasifikasi  Belania Pembavaran
+.................  (18)                              .
+Jumlah  Total Potongan
+
+.                                                                (14)                           .
+
+
+Tertulis
+
+:    ··················  (16)                               .
+:                                               (16)                               .
+
+:                                              (16)                               .
+
+:                                                       (16)                              .
+
+:                                               (16)                               .
+
+:                                                                      (16)  ··························
+:                                                                      (16)                               .
+Jumlah  Total Penqeluaran
+
+··················  (15)                             .
+
+
+Seharusnva
+
+:     ····················  (17)                           .
+
+:     ····················  (17)  ························
+:                                                   (17)                           .
+
+:                                                    (17)                             .
+
+:                                                    (17)                             .
+
+:                                                             (17)                             .
+
+:                                                                              (17)                             .
+
+
+
+f--�������-
+Tertulis
+Seharusnya
+Koreksi Kode Penqeluaran :
+Kode                                               Rp                                          Kode                                            Rp
+
+..................  (19)                               .
+
+Jumlah
+Koreksi Kode Potonqan :
+
+.                   .,     (20)             .
+
+...........  (23)             .
+
+..................  (21)  ··················
+Jumlah
+
+···········  (22)            .
+
+.                          (24)             .
+
+Kode                                               Rp                                           Kode                                            RP
+l----·-··-··-··-·�2_)�-··-··-··-··_-·_..._..._.. �-4--·��•..��(�6�)�..�...�...�...    :.1----     :.�·_•.. �2_7_,... _... _..._..._..._...�-+--"--·_.. �_8�)_..
+
+
+.. -----,
+Jumlah                                           (29)  . . . . .  .  . . . .  .                                                                                            Jumlah                                        (30)            .
+
+Diverifikasi tanggal :                                                                                  .
+Kepala Seksi Verifikasi  dan  Akuntansi
+
+
+
+NIP                                              .
+Diteliti tanggal :                                                   .
+Kepala Seksi Pencairan Dana
+
+
+
+NIP                                                     .
+
+Menyetujui,
+Kepala KPPN                             .
+
+
+
+NIP                                               .
+
+
+
+- 11  -
+
+
+/
+PETUNJUK  PENGISIAN NOTA  PENYESUAIAN
+
+NO.                                                                          URAIAN  ISIAN (1)      Diisi dengan  nama  K�£N
+(2)     Diisi dengan  nornor  Nata Penyesuaian (3)     Diisi dengan  tanggal Nata  Penyesuaian (4)     Diisi dengan  tahun  anggaran
+
+
+
+
+
+
+
+--·                                                      -
+(5)     Diisi  dengan  nomor  dan tanggal  Surat Permintaan Koreksi  Data dari Satker
+(6)      Diisi dengan  kode dan  uraian  kementerian  negara/lembaga
+(7)     Diisi dengan  kode dan  uraian bagian  anggaran eselon  I
+(8)     Diisi dengan  kode dan  uraian  satuan  kerja                                            ..
+(9)     Diisi dengan  nomor  SPM  yang  dilakukan koreksi
+(10)    Diisi dengan  tanggal SPM yang  dilakukan koreksi (11)     Diisi dengan  nomor  SP2D  yang  dilakukan  koreksi (12)     Diisi dengan  tanggal SP2D  yang  dilakukan koreksi (13)    Diisi dengan  jumlah total  pengeluaran pada SPM (14)     Diisi dengan  jumlah total  potongan pada  SPM
+(15)     Diisi dengan  jumlah bersih  pada SPM  (sama  dengan  jumlah pada  SP2D) (16)    Diisi dengan  kade tertulis pada  SPM
+(17)     Diisi dengan  kode seharusnya pada  SPM
+(18)     Diisi dengan  uraian  pada  SPM selain tercantum di atasnya
+(19)     Diisi dengan  kode  akun tertulis  pada SPM
+--
+(20)     Diisi dengan  nilai uang  pada  akun tersebut
+(21)    Diisi dengan  kode  akun seharusnya pada  SPM (22)     Diisi dengan  nilai uang  pada akun tersebut
+(23)    Diisi dengan  jumlah uang sebelum  koreksi
+(24)     Diisi dengan  jumlah uang  setelah  koreksi
+(25)     Diisi dengan  kode  BA/Unit Es 1/Lokasi/Akun/Satker yang  tertulis  pada  potangan  SPM (26)    Diisi dengan  nilai uang  pada  kode tersebut
+(27)     Diisi dengan  kode  BA/Unit Es 1/Lokasi/Akun/Satker yang  seharusnya pada  patangan SPM
+(28)    Diisi dengan  nilai uang  pada  kode tersebut (29)    Diisi dengan  jumlah uang  sebelum  koreksi (30)     Diisi dengan  jumlah uang setelah  koreksi
+
+
+
+
+�NDERAL.
+
+
+
+AGUS SUPRIJANTO             �
+•     NIP  19530814  197507  1   001 \I.,-
+
+
+
+
+
+
+
+- 12 -
+LAMPIRAN Ill
+PERATURAN DIREKTUR JENDERAL PERBENOAHARAAN  NOMOR  PER-      8g /PB/2011
+TENTANG   MEKANISME   PENGIRIMAN   DAN KOREKSI DATA PADA KANTOR PELAYANAN PERBENDAHARAANNEGARA
+
+
+KEMENTERIAN  KEUANGAN  REPUBLIK INOONESIA DIREKTORAT JENDERAL PERBENDAHARAAN KANTOR WILAYAH  PROVINS!                   .
+KANTOR PELAYANAN PERBENDAHARAAN  NEGARA           .
+
+TELEPON                                                  FAKSIMILI                                                  .
+SITUS:                                                .
+
+
+
+BERITA  ACARA PERUBAHAN DATABASE
+
+
+Pada  hari  ini                               tanggal.             bulan                    tahun                                    . yang  bertanda tangan  dibawah  ini:
+1.    Nama/NIP                                                                .
+
+2.   PangkaUGolongan
+
+3.   Jabatan                        :    Supervisor
+
+telah   melakukan  perubahan  database pada  server  KPPN                             berdasarkan  Nota
+
+Penyesuaian Nomor                        tanggal                     .
+
+Perubahan/perbaikan  database tersebut  telah   dilaksanakan  sebagaimana  mestinya sesuai  dengan  dokumen  yang  menjadi dasar perubahan/perbaikan.
+
+Demikian  Berita  Acara  ini  dibuat  dengan  sebenarnya  untuk dipergunakan seperlunya.
+
+
+Mengetahui: Kepala  Kantor,
+
+
+
+
+
+NIP                            .
+<Nama  Kota>,                               .
+Supervisor,
+
+
+
+
+
+NIP                           .
+
+D;;:ctERAL,
+
+
+AGUS  SUPRIJANTO             �
+NIP 19530814  197507  1   001
+
+
+
+
+
+
+- 13 -
